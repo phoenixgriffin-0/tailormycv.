@@ -4,6 +4,8 @@ A full-stack, AI-powered platform designed to eliminate the modern job applicati
 
 ## 🚀 The Problem It Solves
 Job seekers spend hours manually retailoring their resumes for every single application. TailorMyCV reduces this process to a seamless drag-and-drop workflow, ensuring high-quality, targeted applications in seconds.
+helps in aki g everything less stressful and time consuming
+
 
 ## 💻 Tech Stack
 * **Frontend:** React, TypeScript, Vite, Tailwind CSS
